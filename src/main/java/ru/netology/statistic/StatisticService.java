@@ -11,4 +11,3 @@ package ru.netology.statistic;
         current_max=income;return current_max;
         }
         }
-
