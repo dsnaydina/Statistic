@@ -3,7 +3,7 @@ package ru.netology.statistic;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-class StatisticService {
+class StatisticServiceTest {
     @Test
     void findMax() {
         StatisticService service = new StatisticService();
